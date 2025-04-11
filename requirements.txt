@@ -1,0 +1,11 @@
+torch
+transformers
+diffusers
+gradio
+requests
+accelerate
+safetensors
+xformers
+sentencepiece
+transformers_stream_generator
+tiktoken
